@@ -1,10 +1,15 @@
 Group Information 
-
-
 Name		
 Fatima Kahack  
 Lydia Tse	  
 Anusha Sagi  
+
+Data Science Approach:
+We will use a dataset that is the compilation of 2017 U.S. Census Demographic Data (Kaggle
+2017). This dataset provides ample numerical and categorical variables that can be utilized as
+predictors for our regression and classification models. Such predictors include race, gender,
+household income, unemployment rate, and so forth. Additionally, the dataset is fairly
+complete in the sense that missing data is at a minimum
 	
 
 Instructions to Run Code 
