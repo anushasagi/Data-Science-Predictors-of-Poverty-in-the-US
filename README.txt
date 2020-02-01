@@ -1,27 +1,11 @@
 Group Information 
 
 
-Name		NetID	  UIN
-Fatima Kahack	fkahac2	  678151700
-Lydia Tse	ltse5	  665801910
-Anusha Sagi	ssagi2	  653773832
+Name		
+Fatima Kahack  
+Lydia Tse	  
+Anusha Sagi  
 	
-______________________________________
-
-
-Table of each person’s contribution 
-
-Tasks					Contributor	Status
-
-Problem Selection		 	Anusha & Lydia  Completed
-Data Collection				Anusha & Lydia	Completed
-Data Preparation			Anusha & Fatima	Completed
-Data Exploration			Anusha		Completed
-Regression Modelling			Anusha		Completed
-Classification Modelling		Fatima		Completed
-Create Map for Country			Lydia		Completed
-Finalizing Code & Deliverable Prep	Lydia		Completed
-Powerpoint				Lydia		Completed
 
 Instructions to Run Code 
 1. After downloading the zip file, run the code in the following order 
