@@ -6,7 +6,7 @@ This dataset provides ample numerical and categorical variables that can be util
 Such predictors include race, gender, household income, unemployment rate, and so forth. <br> 
 Additionally, the dataset is fairly complete in the sense that missing data is at a minimum <br>	
 
-# Dependencies
+## Dependencies
 ```
 $ conda install -c anaconda pyshp
 $ conda install -c anaconda plotly
@@ -14,7 +14,7 @@ $ conda install -c anaconda shapely
 $ conda install -c anaconda geopandas
 ```
 
-# Instructions to Run Code 
+## Instructions to Run Code 
 After downloading the zip file, run the code in the following order <br> 
 1. partition_Data - (No Need to execute data is already partitioned)
 2. US_Census_DataPreProcessing - (Data Processing for train) 
