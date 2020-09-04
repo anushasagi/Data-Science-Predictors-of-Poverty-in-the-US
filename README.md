@@ -1,6 +1,10 @@
 # Predictors of Poverty in the US
 
-## Data Science Approach:
+•	Performed data processing, exploratory data analysis on the US census data to emphasize attributes affecting poverty line
+•	Built a regression model to detect the proverty rate in each county using linear regression and regularization that explained 85% of variance in data
+•	Classified 89% of the US census data accurately into below or above poverty line using different classification algorithms like SVM and Decision Tree Classifier
+
+## Dataset:
 This project uses the dataset that is the compilation of 2017 U.S. Census Demographic Data (Kaggle 2017). <br> 
 This dataset provides ample numerical and categorical variables that can be utilized as predictors for our regression and classification models. <br>
 Such predictors include race, gender, household income, unemployment rate, and so forth. <br> 
